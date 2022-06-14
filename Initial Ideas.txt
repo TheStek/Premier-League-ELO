@@ -1,0 +1,10 @@
+Read in and combine all of the year datasets - add a season column (can scrape this from the filename hopefully)
+
+Make a Team class with an object for each team:
+	- Team name - str
+	- Team history - list of tuples with match date, elo before, elo after, gain (or loss), opponent, result
+	- Team colour (could also include logo bitmap)
+
+Dictionary of team name to instance of team class
+
+Function to calculate elo change from team names and result - will add an entry to both team histories

@@ -1,0 +1,23 @@
+2022/05/11-11:09:46.574 52e0 Reusing MANIFEST C:\Users\User\Documents\5. Random Projects\Premier League ELO\Chrome Profile\Default\Local Extension Settings\cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/05/11-11:09:46.575 52e0 Recovering log #8
+2022/05/11-11:09:46.586 52e0 Reusing old log C:\Users\User\Documents\5. Random Projects\Premier League ELO\Chrome Profile\Default\Local Extension Settings\cjpalhdlnbpafiamejdnhcphjbkeiagm/000008.log 
+2022/05/11-11:15:40.573 52e0 Level-0 table #11: started
+2022/05/11-11:15:40.704 52e0 Level-0 table #11: 1758533 bytes OK
+2022/05/11-11:15:40.708 52e0 Delete type=0 #8
+2022/05/11-11:22:45.270 248c Level-0 table #13: started
+2022/05/11-11:22:45.356 248c Level-0 table #13: 1777051 bytes OK
+2022/05/11-11:22:45.359 248c Delete type=0 #10
+2022/05/11-11:22:45.474 248c Level-0 table #15: started
+2022/05/11-11:22:45.609 248c Level-0 table #15: 2840902 bytes OK
+2022/05/11-11:22:45.612 248c Delete type=0 #12
+2022/05/11-11:22:45.613 248c Compacting 4@0 + 0@1 files
+2022/05/11-11:22:45.704 248c Generated table #16@0: 17 keys, 2155782 bytes
+2022/05/11-11:22:45.814 248c Generated table #17@0: 8 keys, 2800055 bytes
+2022/05/11-11:22:45.896 248c Generated table #18@0: 3 keys, 2104146 bytes
+2022/05/11-11:22:45.928 248c Generated table #19@0: 9 keys, 794445 bytes
+2022/05/11-11:22:45.928 248c Compacted 4@0 + 0@1 files => 7854428 bytes
+2022/05/11-11:22:45.930 248c compacted to: files[ 0 4 1 0 0 0 0 ]
+2022/05/11-11:22:45.931 248c Delete type=2 #7
+2022/05/11-11:22:45.931 248c Delete type=2 #11
+2022/05/11-11:22:45.931 248c Delete type=2 #13
+2022/05/11-11:22:45.931 248c Delete type=2 #15
